@@ -1,0 +1,77 @@
+karate P:0.827 R:0.677 F:0.698
+football P:0.745 R:0.753 F:0.741
+polbooks P:0.779 R:0.347 F:0.417
+strike P:0.855 R:0.676 F:0.694
+strikeG1 P:0.178 R:1.0 F:0.295
+strikeG2 P:0.27 R:1.0 F:0.4dolphinsG1 P:0.96 R:0.227 F:0.353
+dolphinsG2 P:0.879 R:0.285 F:0.403
+dolphinsG3 P:0.926 R:0.276 F:0.392
+dolphinsG1 P:0.96 R:0.227 F:0.353
+dolphinsG2 P:0.879 R:0.285 F:0.403
+dolphinsG3 P:0.926 R:0.276 F:0.392
+
+dolphinsG1 P:0.96 R:0.227 F:0.353
+dolphinsG2 P:0.879 R:0.285 F:0.403
+dolphinsG3 P:0.926 R:0.276 F:0.392
+dolphinsAll_G P:0.969 R:0.342 F:0.466
+
+polbooksG1 P:0.807 R:0.287 F:0.373
+polbooksG2 P:0.78 R:0.325 F:0.402
+polbooksG3 P:0.758 R:0.325 F:0.396
+polbooksAll_G P:0.764 R:0.474 F:0.516
+
+strikeG1 P:0.178 R:1.0 F:0.295
+strikeG2 P:0.27 R:1.0 F:0.4
+strikeG3 P:0.307 R:1.0 F:0.452
+strikeAll_G P:0.151 R:1.0 F:0.252
+dolphins P:0.914 R:0.304 F:0.405
+
+strikeG1 P:0.699 R:0.556 F:0.597
+strikeG2 P:0.934 R:0.641 F:0.716
+strikeG3 P:1.0 R:0.595 F:0.677
+strikeAll_G P:0.898 R:0.848 F:0.846
+karateG1 P:0.878 R:0.473 F:0.55
+karateG2 P:0.846 R:0.42 F:0.515
+karateG3 P:0.871 R:0.428 F:0.526
+karateAll_G P:0.891 R:0.644 F:0.701
+footballG1 P:0.661 R:0.716 F:0.674
+footballG2 P:0.691 R:0.747 F:0.707
+footballG3 P:0.678 R:0.734 F:0.698
+footballAll_G P:0.647 R:0.713 F:0.669
+
+重新生成网络：
+
+karateG1 P:0.945 R:0.498 F:0.599
+karateG2 P:0.856 R:0.464 F:0.539
+karateG3 P:0.865 R:0.669 F:0.707
+karateAll_G P:0.891 R:0.644 F:0.701
+
+karate P:0.946 R:0.502 F:0.618
+karateG1 P:0.907 R:0.48 F:0.567
+karateG2 P:0.859 R:0.581 F:0.654
+karateG3 P:0.877 R:0.674 F:0.727
+karateAll_G P:0.891 R:0.644 F:0.701
+
+strikeG1 P:0.839 R:0.583 F:0.659
+strikeG2 P:0.739 R:0.893 F:0.771
+strikeG3 P:0.944 R:0.54 F:0.639
+strikeAll_G P:0.898 R:0.848 F:0.846
+
+dolphinsG1 P:0.975 R:0.267 F:0.367
+dolphinsG2 P:0.899 R:0.331 F:0.451
+dolphinsG3 P:0.969 R:0.348 F:0.482
+dolphinsAll_G P:0.969 R:0.342 F:0.466
+
+polbooksG1 P:0.83 R:0.243 F:0.325
+polbooksG2 P:0.754 R:0.319 F:0.381
+polbooksG3 P:0.8 R:0.39 F:0.452
+polbooksAll_G P:0.764 R:0.474 F:0.516
+karate P:0.964 R:0.506 F:0.616
+strike P:0.94 R:0.665 F:0.728
+dolphins P:0.963 R:0.4 F:0.498
+polbooks P:0.76 R:0.375 F:0.429
+footballG1 P:0.663 R:0.687 F:0.661
+footballG2 P:0.647 R:0.724 F:0.678
+footballG3 P:0.674 R:0.739 F:0.695
+footballAll_G P:0.647 R:0.713 F:0.669
+football P:0.721 R:0.775 F:0.743
