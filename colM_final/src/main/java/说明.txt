@@ -1,0 +1,9 @@
+1、该代码是模拟3方通信，启动时需要启动3个进程并配置好输入参数，并指定是否为主网络
+如下（端口号需与具体代码对应，主函数在hander中）：
+localhost:8000 localhost:8000 true      //主网络
+localhost:8001 localhost:8000 false     //从网络
+localhost:8002 localhost:8000 false     //从网络
+2、base中存放的是控制通信的类
+3、EIGAMAL中存放的是用于加密的类
+4、msg中存放的是通信过程中一些消息类
+5、数据集存放在\src\main\resources\data中
